@@ -9,17 +9,7 @@
 ---
 
 # 💫 Yoww there, I'm Adhelia but u can call me **Valeryn**
-An IT student at a well-known university in Tangerang, lowkey turning ideas, pure logic, and iced coffee into clean code and web apps experiences. My tech journey is purely fueled by curiosity—building impactful digital solutions, exploring modern tech stacks, and actually solving real-world system challenges.<br>
-
-
----
-
-## 🌐 Socials:
-<p>
-  <a href="https://www.instagram.com/ryn_val1l"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@adhelotwjadiceo"><img src="https://img.shields.io/badge/YouTube-FF1493?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:adheliafebrirahmawati@gmail.com"><img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+An IT student at a well-known university in Tangerang, lowkey turning ideas, pure logic, and iced coffee into clean code and web apps experiences. My tech journey is purely fueled by curiosity—building impactful digital solutions, exploring modern tech stacks, and actually solving real-world system challenges 🦩💐🎀<br>
 
 ---
 # 💻 Programming Languages:
