@@ -11,9 +11,7 @@
 # 💫 About Me:
 Hey there, I'm Adhelia, but u can call me **Valeryn**<br>
 An IT student at a well-known university in Tangerang, lowkey turning ideas, pure logic, and iced coffee into clean code, web apps, and mobile experiences. My tech journey is purely fueled by curiosity—building impactful digital solutions, exploring modern tech stacks, and actually solving real-world system challenges.<br>
-Outside of lectures, I'm super active as part of a top-tier student association at my uni, where I vibe with leadership and teamwork. I'm usually the one coordinating major events and handling admin logistics. On the tech side, my daily drivers include Java, Android Studio, SQLite, MySQL, and VS Code, while constantly leveling up my skills in advanced mobile dev, system analysis, and UI/UX design.<br>
-Most of my time? Yeah, drowning in endless debugging sessions—only to realize the plot twist is just a missing semicolon or a tiny typo. Let's connect and build something legendary together!<br>
-Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happen! ✨
+
 
 ---
 
@@ -25,7 +23,11 @@ Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happ
 </p>
 
 ---
+Outside of lectures, I'm super active as part of a top-tier student association at my uni, where I vibe with leadership and teamwork. I'm usually the one coordinating major events and handling admin logistics. On the tech side, my daily drivers include Java, Android Studio, SQLite, MySQL, and VS Code, while constantly leveling up my skills in advanced mobile dev, system analysis, and UI/UX design.<br>
+Most of my time? Yeah, drowning in endless debugging sessions—only to realize the plot twist is just a missing semicolon or a tiny typo. Let's connect and build something legendary together!<br>
+Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happen! ✨
 
+---
 # 💻 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
