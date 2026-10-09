@@ -22,10 +22,6 @@ An IT student at a well-known university in Tangerang, lowkey turning ideas, pur
 </p>
 
 ---
-Most of my time? Yeah, drowning in endless debugging sessions—only to realize the plot twist is just a missing semicolon or a tiny typo. Let's connect and build something legendary together!<br>
-Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happen! ✨
-
----
 # 💻 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
