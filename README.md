@@ -1,4 +1,12 @@
-<h1 align="center">✨ Welcome to Valeryn's Space ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Welcome+to+Valeryn's+Space+%E2%9C%A8;%F0%9F%92%BB+Informatics+Student;%F0%9F%92%96+Turning+Coffee+into+Code" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Valerynlia&icon=7&color=ff69b4" alt="Visitor Count"/>
+</p>
+
+---
 
 # 💫 About Me:
 Hey there, I'm Adhelia, but u can call me **Valeryn**<br>
@@ -18,7 +26,7 @@ Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happ
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,11 +34,28 @@ Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happ
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/python-FF1493?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+# 🗄️ Databases:
+<p>
+  <img src="https://img.shields.io/badge/mysql-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-DB7093?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+# 🛠️ DevOps, Testing & Tools:
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-FF69B4?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-DB7093?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-FF1493?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-FF69B4?style=for-the-badge&logo=figmo&logoColor=white" />
+</p>
+
+# 🎨 Design & Editing:
+<p>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
@@ -45,9 +70,4 @@ Hit me up via LinkedIn or shoot me an email, and let's make some tech magic happ
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Valerynlia&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Valerynlia&icon=7&color=ff69b4" />
 </p>
